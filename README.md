@@ -8,3 +8,6 @@ Secondly, we use the expectation-maximization (EM) algorithm to find the maximum
 
 **Lab3**: We  continue working with the CMM and Twitter data-set presented in Lab1. We will use Bayesian nonparametric (BNP) to assume (a priori) infinite number of mixture
 components K. In practice, we will only be able to ”see” a finite number, K+, of components K+ < N - 1 << 1 which is constrained by the number of observations in our data-set. Again,we will rely on the Gibbs sampling algorithm to infer the posterior distribution of the unknownvariables and parameters in our model
+
+**Lab4**: we will explore two different applications of Hidden Markov Models (HMMs) i)Part-Of-Speech (POS) tagging and ii) Human Activity Recognition (HAR). We will learn how to
+obtain the MLE of the parameters ![third](http://www.sciweavers.org/upload/Tex2Img_1612948134/render.png) in both tasks
