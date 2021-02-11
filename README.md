@@ -13,7 +13,10 @@ components K. In practice, we will only be able to ”see” a finite number, K+
 obtain the MLE of the parameters ![third](http://www.sciweavers.org/upload/Tex2Img_1612948134/render.png) in both tasks
 
 **Lab5**: In this Lab we implement  Coordinate acsent Mean-field Variational inference (CAVI) and derive Evidence Lower bound for Gaussian Mixture model. Specifically we
-  1.Generate a synthetic dataset from a GMM with 3 clusters and 1000 datapoints per cluster
+  1.Generate a synthetic dataset from a GMM with 3 clusters and 1000 datapoints per cluster.
+  
   2.Derive the formula of the ELBO for this model.
-  3.Implement the CAVI updates for the model
-  4.Run the algorithm and plot the results at convergence
+  
+  3.Implement the CAVI updates for the model.
+  
+  4.Run the algorithm and plot the results at convergence.
