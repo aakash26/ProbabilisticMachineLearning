@@ -20,4 +20,6 @@ Secondly, we use the expectation-maximization (EM) algorithm to find the maximum
   
   4.Run the algorithm and plot the results at convergence.
   
-**Lab6**:  In this Lab we will generate synthetic data and then we will use it to learn how to apply Stochastic Gradient Descent (SGD) and Amortized Variational Inference with neural networks. We will use the package pytorch, which allow us to perform automatic differentiation
+**Lab6**:  In this Lab we will generate synthetic data and then we will use it to learn how to apply Stochastic Gradient Descent (SGD) and Amortized Variational Inference with neural networks. We will use the package pytorch, which allow us to perform automatic differentiation.
+
+**Lab7**: In this Lab  we will focus on the problem of density estimation. We will use the well-known MNIST dataset to train a Variational Autoencoder that will learn to approximate the distribution of the data and consequently, will be able to generate 'realistic' images. We will use the package pytorch, which allow us to perform automatic differentiation
